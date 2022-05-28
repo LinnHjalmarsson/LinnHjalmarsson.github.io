@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of applied public economics, especially empirical Health Economics. Identifying potential issues and finding possible ways to render health care systems more efficient are my main goal. 
+I'm a second year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
 
 ## Work in Progress
 ### Interpersonal Discontinuities in Primary Care: A Study of Practice Handovers (with Tamara Bischof and Boris Kaiser) 2022
