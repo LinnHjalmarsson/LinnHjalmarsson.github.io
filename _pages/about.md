@@ -43,3 +43,7 @@ I'm a second year PhD Candidate in Economics at the University of Bern. My main 
 Health Economics, Applied Microeconometrics, Applied Public Economics
 
 ## Teaching
+* Introductory Econometrics
+  * Spring 2021, 2022, Bachelor Level
+* Seminar Workshop in Econometrics I 
+  * Fall 2021, Bachelor Level 
