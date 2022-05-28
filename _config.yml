@@ -66,7 +66,7 @@ analytics:
 # Site Author
 author:
   name             : "Linn Hjalmarsson"
-  avatar           : "foto_aktuell.jpg"
+  avatar           : 
   bio              : "PhD Candidate in Economics"
   location         : 
   employer         : "University of Bern"
@@ -81,7 +81,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/linnhj"
+  github           : "https://github.com/linnhj/"
   google_plus      :
   keybase          :
   instagram        :
