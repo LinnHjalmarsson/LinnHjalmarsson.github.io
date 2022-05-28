@@ -20,9 +20,9 @@ I'm a second year PhD Candidate in Economics at the University of Bern. My main 
 
 ## Conference Presentations
 * 2022 
-      *   Brown Bag, Department of Economics, University of Bern
-      *   Swiss Health Economics Workshop (Lucerne)
-      *   Biannual Conference of the European Health Economics Association (EUHEA) at University of Oslo
+        *  Brown Bag, Department of Economics, University of Bern
+        *  Swiss Health Economics Workshop (Lucerne)
+        *  Biannual Conference of the European Health Economics Association (EUHEA) at University of Oslo
 
 # CV
 
