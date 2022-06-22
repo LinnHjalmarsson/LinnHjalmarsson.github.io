@@ -16,8 +16,6 @@ We study practice handovers in Switzerland during the period 2007 - 2015 to anal
 Employing a dynamic difference-in-difference framework, we estimate the causal effects of the handover by comparing the differences in outcomes of interest between patients that experience a handover and a similar group of patients that does not. 
 We find that discontinuities of care increase outpatient health care utilization, which is especially large for specialist visits (+5.5%). As a consequence, ambulatory costs increase as well (+5.2%). These changes in the utilization pattern are likely to be driven by differences in practice styles between retiring GPs and their successors who are typically much younger and more likely to be female. In contrast to the existing literature on interpersonal continuity of care, we find no evidence for adverse health effects. Consistent with more recent findings, we conclude that an exogenous disruption to the patient-provider relation is not necessarily harmful.
 
-### Health Effects of Deferred Treatments (with Beatrix Eugster and Giacomo Pasini) 2022
-
 ### Determinants of Generic Drug Substitution by Consumers: Evidence from Switzerland (with Nicolas Schreiner and Christian Schmid) 2022
 
 
