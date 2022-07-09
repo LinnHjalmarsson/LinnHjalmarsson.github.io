@@ -36,7 +36,7 @@ We find that discontinuities of care increase outpatient health care utilization
 Health Economics, Applied Microeconometrics, Applied Public Economics
 
 ## Education
-* Ph.D. Economics, University of Bern, 2020-2024 (expected).
+* Ph.D. Economics, University of Bern, 2021-2024 (expected).
     * Swiss Program for Beginning Doctoral Students in Economics (Microeconomics, Econometrics), Study Center Gerzensee, 2020-2021. 
 * M.Sc. Applied Economic Analysis, University of Bern, 2018-2020.
 * B.Sc. Economics, University of Bern, 2015-2018.
