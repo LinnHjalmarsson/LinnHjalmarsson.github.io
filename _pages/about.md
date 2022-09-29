@@ -41,5 +41,5 @@ Health Economics, Applied Microeconometrics, Applied Public Economics
 
 ## Teaching Assistant
 * Introductory Econometrics (Bachelor), Spring 2021 & 2022
-* Seminar Workshop in Econometrics I (Bachelor), Fall 2021
+* Seminar Workshop in Econometrics I (Bachelor), Fall 2021 & 2022
 
