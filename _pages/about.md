@@ -33,10 +33,10 @@ I'm a second year PhD Candidate in Economics at the University of Bern. My main 
 Health Economics, Applied Microeconometrics, Applied Public Economics
 
 ## Education
-* Ph.D. Economics, University of Bern, 2021-2024 (expected).
+* Ph.D. in Economics, University of Bern, 2021-2024 (expected).
     * Swiss Program for Beginning Doctoral Students in Economics (Microeconomics, Econometrics), Study Center Gerzensee, 2020-2021. 
-* M.Sc. Applied Economic Analysis, University of Bern, 2018-2020.
-* B.Sc. Economics, University of Bern, 2015-2018.
+* M.Sc. in Applied Economic Analysis, University of Bern, 2018-2020.
+* B.Sc. in Economics, University of Bern, 2015-2018.
 
 
 ## Teaching Assistant
