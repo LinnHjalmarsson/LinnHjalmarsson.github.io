@@ -13,7 +13,10 @@ I'm a second year PhD Candidate in Economics at the University of Bern. My main 
 ## Work in Progress
 ### The Impact of Physician Exits in Primary Care: A Study of Practice Handovers (with Tamara Bischof and Boris Kaiser) 2022
 
-### Determinants of Generic Drug Substitution by Consumers: Evidence from Switzerland (with Nicolas Schreiner and Christian Schmid) 2022
+### A Prescription for Knowledge: Patient Information and Generic Substitution (with Nicolas Schreiner and Christian Schmid) 2022
+
+### Christmas Shopping in the Prescription Drug Market 
+
 
 
 ## Conference Presentations
