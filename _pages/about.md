@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
+I'm a third year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
 
 ## Work in Progress
 ### The Impact of Physician Exits in Primary Care: A Study of Practice Handovers (with Tamara Bischof and Boris Kaiser) 2022
@@ -20,6 +20,9 @@ I'm a second year PhD Candidate in Economics at the University of Bern. My main 
 
 
 ## Conference Presentations
+* 2023
+  * dggö Annual Conference, Leibniz University Hannover
+
 * 2022 
   * Brown Bag, Department of Economics, University of Bern
   * Swiss Health Economics Workshop, Lucerne
