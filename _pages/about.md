@@ -10,17 +10,20 @@ redirect_from:
 
 I'm a third year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
 
-## Work in Progress
-### The Impact of Physician Exits in Primary Care: A Study of Practice Handovers (with Tamara Bischof and Boris Kaiser) 2022
+## Publications
+The impact of physician exits in primary care: A study of practice handovers 
 
+## Work in Progress
 ### A Prescription for Knowledge: Patient Information and Generic Substitution (with Nicolas Schreiner and Christian Schmid) 2022
 
-### Christmas Shopping in the Prescription Drug Market 
+### Christmas Shopping in the Prescription Drug Market (with Michael Gerfin) 2023
 
 
 
 ## Conference Presentations
 * 2023
+  * sggö PhD Conference, University of Bern  
+  * Brown Bag, Department of Economics, University of Bern
   * dggö Annual Conference, Leibniz University Hannover
 
 * 2022 
