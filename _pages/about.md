@@ -24,11 +24,13 @@ Recent studies on physician exits suggest that general practitioners (GPs) have 
 
 ## Conference Presentations
 * 2023
+  * Research Seminar in Health Sciences, Faculty of Health Sciences and Medicine, University of Lucerne
+  * Applied Micro Seminar, Department of Economics, University of Gothenburg  
   * sggö PhD Conference, University of Bern  
   * Brown Bag, Department of Economics, University of Bern
   * dggö Annual Conference, Leibniz University Hannover
 
-* 2022 
+* 2022
   * Brown Bag, Department of Economics, University of Bern
   * Swiss Health Economics Workshop, Lucerne
   * Biannual Conference of the European Health Economics Association (EUHEA), University of Oslo  
@@ -51,5 +53,5 @@ Health Economics, Applied Microeconometrics, Applied Public Economics
 
 ## Teaching Assistant
 * Introductory Econometrics (Bachelor), Spring 2021 & 2022 & 2023
-* Seminar Workshop in Econometrics I (Bachelor), Fall 2021 & 2022
+* Seminar Workshop in Econometrics I (Bachelor), Fall 2021 & 2022 & 2023
 
