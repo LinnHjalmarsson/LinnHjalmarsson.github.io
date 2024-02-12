@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
+I'm a fourth year PhD Candidate in Economics at the University of Bern. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
 
 ## Publications
 [The impact of physician exits in primary care: A study of practice handovers](https://doi.org/10.1016/j.healthpol.2023.104867) with [Boris Kaiser](https://sites.google.com/site/kaisereconomics/home) and [Tamara Bischof](https://sites.google.com/view/tamarabischof/home) (Health Policy, 2023, Vol 135)
@@ -53,6 +53,6 @@ Health Economics, Applied Microeconometrics, Applied Public Economics
 
 
 ## Teaching Assistant
-* Introductory Econometrics (Bachelor), Spring 2021 & 2022 & 2023
+* Introductory Econometrics (Bachelor), Spring 2021 & 2022 & 2023 & 2024
 * Seminar Workshop in Econometrics I (Bachelor), Fall 2021 & 2022 & 2023
 
