@@ -25,6 +25,8 @@ Many modern health insurance contracts consist of a combination of deductibles, 
 
 
 ## Conference Presentations
+* 2024
+  * Biannual Conference of the European Health Economics Association (EUHEA), Vienna University of Economics and Business
 * 2023
   * Research Seminar in Health Sciences, Faculty of Health Sciences and Medicine, University of Lucerne
   * Applied Micro Seminar, Department of Economics, University of Gothenburg  
