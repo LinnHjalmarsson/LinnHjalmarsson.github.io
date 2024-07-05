@@ -38,7 +38,7 @@ of the complexity of their health insurance contract. This is further evidence f
 irrational behavior induced by deductibles.
 
 
-## Conference Presentations
+## Presentations
 * 2024
   * Biannual Conference of the European Health Economics Association (EUHEA), Vienna University of Economics and Business
 * 2023
