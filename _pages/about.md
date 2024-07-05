@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thanks for dropping by. I recently finished my PhD in Economics at the University of Bern and I am currently working as a researcher at the CSS Institute for Empirical Health Economics. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
+Hi :wave:, thanks for dropping by. I recently finished my PhD in Economics at the University of Bern and I am currently working as a researcher at the CSS Institute for Empirical Health Economics. My main research interests are in the field of Applied Public Economics, especially empirical Health Economics. 
 
 ## Publications
 ### [The impact of physician exits in primary care: A study of practice handovers](https://doi.org/10.1016/j.healthpol.2023.104867) with [Boris Kaiser](https://sites.google.com/site/kaisereconomics/home) and [Tamara Bischof](https://sites.google.com/view/tamarabischof/home) (Health Policy, 2023, Vol 135)
