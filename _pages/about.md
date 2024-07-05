@@ -21,7 +21,21 @@ Recent studies on physician exits suggest that general practitioners (GPs) have 
 Markets require informed participants to function efficiently. This paper examines the impact of providing targeted information directly to patients on their purchasing-decisions regarding pharmaceutical drugs. We analyze the effect of informational letters sent by a Swiss health insurer to clients who had recently purchased a brand-name drug, informing them of available generic alternatives and potential savings. Utilizing the quasi-randomized timing of the letter dispatch, we employ an event study design with staggered treatment adoption to estimate the causal effect of patient information on generic substitution probability. Based on 540,000 drug purchases by 60,000 patients we find that the probability of switching to a generic alternative increases by almost 30 percentage points immediately after receiving the informational letter, representing nearly a fourfold rise in the substitution likelihood among previous brand-name drug buyers. Furthermore, the effect does not substantially depend on whether patients face a copayment for their drug purchase and thus personally financially benefit from switching. Our results highlight the limits of healthcare policies that rely solely on financial incentives, particularly if patients lack sufficient information in their decision-making.
 
 ### Christmas Shopping in the Prescription Drug Market (with Michael Gerfin)
-Many modern health insurance contracts consist of a combination of deductibles, varying co-insurance rates and a stop-loss. While these features aim at solving the trade-off between risk protection and maintaining incentives, they also create nonlinear price-schedules. Using detailed individual level claims data from a large Swiss health insurer, we analyse the extent to which patients respond to the discrete increase in the spot price induced by the deductible reset at the beginning of each year. Especially, we focus on whether and to what extent chronically ill patients intertemporarily substitute prescription drug purchases. Employing a regression-discontinuity-design, we find that patients increase their chronic prescription drug purchases by around 50% on average at the end of a year, when they face a temporarily low marginal price. In contrast, we find only a minor and statistically insignificant effect for antibiotics. These findings show that at least some patients heavily react to the spot price. Thus, indicating that they don't understand the entire complexity of the nonlinear contract as their expected end-of-year price hardly changes.
+Health insurance contracts typically include a combination of various cost-sharing features.
+These are designed to balance the trade-off between risk protection and maintaining incentives,
+but they also generate nonlinear price schedules and dynamic incentives. In this study, we
+analyse whether individuals react rationally to these incentives. To do so, we utilize extensive
+individual-level claims data obtained from a large Swiss health insurer linked to detailed pharmaceutical
+information. We focus on patients with chronic conditions. They experience a very
+salient increase of the spot price caused by the deductible reset at the start of a year, but their
+expected end-of-year price, the price they should react to, is unaffected by the deductible reset.
+Employing a regression discontinuity design, our analysis reveals that the difference between
+the amount of DDDs purchased in December compared to January corresponds to around 50%
+of the yearly average DDDs purchased. This is at least partially caused by individuals who
+purchase in December to avoid the high spot price early in the following year. In other words,
+a fraction of consumers is highly responsive to spot prices, indicating a limited understanding
+of the complexity of their health insurance contract. This is further evidence for apparent
+irrational behavior induced by deductibles.
 
 
 ## Conference Presentations
